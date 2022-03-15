@@ -10,7 +10,7 @@
 ### - _Parantheses_
 
 ## **Operators:**
-### - _Plus (+):_ for Addition (
+### - _Plus (+):_ for Addition
 ### - _Minus (-):_ for Subtraction
 ### - _Asterisk (*):_ for Multiplication
 ### - _Slash (/):_ for Division
