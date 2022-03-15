@@ -34,4 +34,4 @@
 
 ### A big problem when writing an interpreter for arithmetical expressions is _PRESEDENCE_ but when we do a little thinking you can see that it all comes to addition and subtraction. To solve the presedence problem we just process multiplication and division before addition and subtraction. For example expression _'2 + 3 * 5'_ will be turned into '2 + 15' and now when there are only addition and subtraction we can process normally. You can add support for parantheses using this way to.
 
-### This simple interpreter basically works like this you can extend this to your usage.
+### This simple interpreter basically works like this. You can extend this to your usage.
